@@ -1,2 +1,3 @@
-# r53domains-pricing
-Programmatically retrieve the pricing of Route53 Domains
+# Route53 Pricing API
+
+Programmatically retrieve the pricing of Route53 Domains.
